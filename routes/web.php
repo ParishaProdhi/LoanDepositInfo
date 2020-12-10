@@ -16,8 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'App\Http\Controllers\applicationController@read');
 Route::post('/post', 'App\Http\Controllers\applicationController@create');
 Route::get('/show', 'App\Http\Controllers\applicationController@show');
-Route::get('/sendSMS/{number}', 'App\Http\Controllers\applicationController@sendSMS');
+Route::get('/sendSMS/{number}/{branch_name}', 'App\Http\Controllers\applicationController@sendSMS');
 Route::get('/branches/all', 'App\Http\Controllers\branchController@read');
+Route::get('branches/getEmailAddress/{union}', 'App\Http\Controllers\branchController@getEmailAddress');
+Route::get('/sms-sent-to-the-client', 'App\Http\Controllers\applicationController@redirectSMS');
+
 //Route::get('/branches/all/{division}/{district}/{upazilla}/{union}', 'App\Http\Controllers\branchController@getEmailAddress');
 
 
