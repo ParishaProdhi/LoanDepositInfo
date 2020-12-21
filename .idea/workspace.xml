@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a7e191-9b2c-46a6-b9c9-159fc4773509" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/smsSent.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/applicationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/applicationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/branchController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/branchController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +162,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flutter_app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -222,6 +217,10 @@
       <workItem from="1607338900283" duration="1060000" />
       <workItem from="1607411064638" duration="1068000" />
       <workItem from="1607572990808" duration="603000" />
+      <workItem from="1607758537041" duration="6000" />
+      <workItem from="1607921323888" duration="530000" />
+      <workItem from="1607922260359" duration="1126000" />
+      <workItem from="1607923503805" duration="602000" />
     </task>
     <servers />
   </component>
@@ -245,10 +244,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607335890867" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606366841061">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607921858876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606366841061" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607921858876" />
     <state x="263" y="107" key="IDE.errors.dialog" timestamp="1607317169060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
